@@ -55,12 +55,21 @@ img{
 
 .full-section{
     position: relative;
-    background-color: red;
     height: 100vh;
     
 }
 
+.page-one{
+    background-color: red;
+}
 
+.page-two{
+    background-color: green;
+}
+
+.page-three{
+    background-color: yellow;
+}
 
 
 
