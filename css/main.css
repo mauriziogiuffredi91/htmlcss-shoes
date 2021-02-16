@@ -53,14 +53,18 @@ img{
 }
 
 
-
-.page-one{
+.page{
     position: relative;
-    height: 100vh;
     background-color: red;
-   
+    height: 100vh;
     
 }
+
+.page .one{
+    
+}
+
+
 
 
 .container {
@@ -76,8 +80,16 @@ img{
 }
 
 
+.container .second,
 .container .first{
     margin-top: 10px;
     color: yellow;
     font-size: 34px;
 }
+
+.container .three{
+    margin-top: 10px;
+    color:green;
+    font-size: 34px;
+}
+
