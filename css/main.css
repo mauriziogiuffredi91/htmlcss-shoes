@@ -17,6 +17,41 @@ img{
     height: auto;
 }
 
+.menu::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.menu ul li{
+    margin: 15px 10px;
+    list-style: none;
+}
+
+.menu li a{
+    display: inline-block;
+    text-decoration: none;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    color: black;
+    border-radius: 50%;
+    background-color: whitesmoke;
+}
+
+.number-1,
+.number-2,
+.number-3{
+    float: left;
+}
+.menu{
+    position: fixed;
+    bottom: 90%;
+    left: 80%;
+    z-index: 10;
+}
+
 
 
 .page-one{
