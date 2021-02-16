@@ -17,6 +17,8 @@ img{
     height: auto;
 }
 
+
+
 .page-one{
     position: relative;
     height: 100vh;
@@ -44,5 +46,6 @@ img{
 }
 
 .container .first{
+    margin-top: 10px;
     color: yellow;
 }
