@@ -17,6 +17,13 @@ img{
     height: auto;
 }
 
+.page-one{
+    position: relative;
+    height: 100vh;
+    background-color: red;
+   
+    
+}
 
 
 .container img{
