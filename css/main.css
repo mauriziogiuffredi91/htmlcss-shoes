@@ -53,16 +53,14 @@ img{
 }
 
 
-.page{
+.full-section{
     position: relative;
     background-color: red;
     height: 100vh;
     
 }
 
-.page .one{
-    
-}
+
 
 
 
